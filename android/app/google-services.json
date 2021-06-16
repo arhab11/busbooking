@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "333777559603",
+    "project_id": "busbooking-7e392",
+    "storage_bucket": "busbooking-7e392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333777559603:android:67affa1e16877d6bedc346",
+        "android_client_info": {
+          "package_name": "com.example.busbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333777559603-1pked4kvnvhtsr6v6fb11vsjb5ohbqlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv8rjeCvT25YOkWurg-F8046tJpA0Aah4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333777559603-1pked4kvnvhtsr6v6fb11vsjb5ohbqlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
